@@ -1,3 +1,4 @@
+<p align="center"><b>Member</b></p>
 <table align="center">
   <tr>
     <td align="center">
